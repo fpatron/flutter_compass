@@ -31,4 +31,6 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+
+    namespace 'com.hemanthraj.fluttercompass'
 }
